@@ -8,6 +8,7 @@
 создайте свой fork образа;
 реализуйте функциональность: запуск веб-сервера в фоне с индекс-страницей, содержащей HTML-код ниже:
 
+![1](https://user-images.githubusercontent.com/102204773/205592559-bdc308b9-8fce-497a-ab42-5e8603dff328.png)
 
 
        Ответ https://hub.docker.com/repository/docker/polichuk/nginx
